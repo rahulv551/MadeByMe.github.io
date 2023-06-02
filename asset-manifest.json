@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MadeByMe.github.io/static/css/main.300f8d65.css",
+    "main.js": "/MadeByMe.github.io/static/js/main.dcf30e9d.js",
+    "static/js/787.635aedaa.chunk.js": "/MadeByMe.github.io/static/js/787.635aedaa.chunk.js",
+    "static/media/s2.svg": "/MadeByMe.github.io/static/media/s2.20d839e266f121d1e2badb3f98e2bc87.svg",
+    "static/media/digital.svg": "/MadeByMe.github.io/static/media/digital.10241078a3ee6ad23b2c7cae43cd3baf.svg",
+    "static/media/software.svg": "/MadeByMe.github.io/static/media/software.746cf4ad90c83f0dcd4cf7433931dc13.svg",
+    "static/media/img2.svg": "/MadeByMe.github.io/static/media/img2.0bc12d580be9f1b75e6cdacaa0256c5b.svg",
+    "static/media/app.svg": "/MadeByMe.github.io/static/media/app.4f06fe42abfbc7ad84176ab0066e4e2c.svg",
+    "static/media/android.svg": "/MadeByMe.github.io/static/media/android.1382f2de9813088246bba8b05197bee2.svg",
+    "static/media/s1.svg": "/MadeByMe.github.io/static/media/s1.b7824ef06b23d0b693e7a10c6f341985.svg",
+    "static/media/marketing.svg": "/MadeByMe.github.io/static/media/marketing.8e385b89ee1478c09d944af5a5dc9494.svg",
+    "index.html": "/MadeByMe.github.io/index.html",
+    "main.300f8d65.css.map": "/MadeByMe.github.io/static/css/main.300f8d65.css.map",
+    "main.dcf30e9d.js.map": "/MadeByMe.github.io/static/js/main.dcf30e9d.js.map",
+    "787.635aedaa.chunk.js.map": "/MadeByMe.github.io/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.300f8d65.css",
+    "static/js/main.dcf30e9d.js"
+  ]
+}
